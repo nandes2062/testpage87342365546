@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{menu:[{title:"Inicio",href:"\u002F"},{title:"Empresa",href:"\u002F#empresa"},{title:"Nuestro equipo",href:"\u002F#nuestro-equipo"},{title:"Catálogo",href:"\u002Fcatalogo"},{title:"Contáctenos",href:"\u002Fcontactenos"}]}],fetch:{},mutations:void 0});
